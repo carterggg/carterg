@@ -1,13 +1,30 @@
 /* BASE */
 body {
+  background-color: black;
   background-repeat: no-repeat;
   background-size: cover; }
 
-h1 {
-  font-family: "courier_primeregular"; }
-
-h1 a {
+h1, li, a, h1 a {
+  font-family: "pixellife_small_cap";
   color: white; }
+
+h2 {
+  color: black; }
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+  padding-right: 16px; }
+
+nav ul li {
+  display: inline; }
+
+li {
+  font-size: 2.3em;
+  margin-left: 20px; }
+
+nav {
+  text-align: center; }
 
 /* unvisited link */
 a:link {
@@ -19,24 +36,25 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  text-decoration: none;
-  color: silver; }
+  text-decoration: underline;
+  color: grey; }
 
 /* selected link */
 a:active {
   text-decoration: none; }
 
 /* LAYOUT */
-.black-background {
-  background-color: black; }
-
 .align-center {
   margin: auto;
   text-align: center; }
 
 .footer-text {
-  font-size: 2em;
-  color: white; }
+  font-size: 2em; }
+
+.white-background {
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px; }
 
 /* Video EMBed responsive code */
 .responsive-vid {

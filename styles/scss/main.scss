@@ -1,23 +1,44 @@
 $main-color: black;
 $main-color2: white;
-$main-font: 'courier_primeregular';
+$main-font: 'pixellife_small_cap';
 
 
 /* BASE */ 
 
 body {
+	background-color: $main-color;
 	background-repeat: no-repeat;
 	background-size:cover;
 }
 
-h1 {
+h1, li, a, h1 a {
 	font-family: $main-font;
+	color: $main-color2;
 }
 
-h1 a {
-	color:$main-color2;
+h2 {
+
+	color: $main-color;
 }
 
+ul {
+	list-style: none;
+	padding-left:0px;
+	padding-right:16px;
+}
+
+nav ul li {
+	display: inline;
+}
+
+li {
+	font-size: 2.3em;
+	margin-left: 20px;
+}
+
+nav {
+	text-align: center;
+}
 
 /* unvisited link */
 a:link {
@@ -31,8 +52,8 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-	text-decoration: none;
-	color: silver;
+	text-decoration:underline;
+	color: grey;
 }
 
 /* selected link */
@@ -43,10 +64,6 @@ a:active {
 
 
 /* LAYOUT */ 
-.black-background {
-	background-color: $main-color;
-}
-
 .align-center {
 	margin: auto;
 	text-align: center;
@@ -54,7 +71,12 @@ a:active {
 
 .footer-text {
 	font-size: 2em;
-	color: $main-color2;
+}
+
+.white-background {
+	background-color: white;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 /* Video EMBed responsive code */
