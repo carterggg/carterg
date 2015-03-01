@@ -1,6 +1,8 @@
 $main-color: black;
 $main-color2: white;
 $main-font: 'pixellife_small_cap';
+$main-font2: 'upheaval_proregular';
+
 
 
 /* BASE */ 
@@ -17,8 +19,9 @@ h1, li, a, h1 a {
 }
 
 h2 {
-
+	font-family: $main-font2;
 	color: $main-color;
+	font-size: 1.8em;
 }
 
 ul {
@@ -74,9 +77,21 @@ a:active {
 }
 
 .white-background {
-	background-color: white;
+	background-color: $main-color2;
 	padding-left: 15px;
 	padding-right: 15px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+
+.main-text {
+	font-family: $main-font2;
+	font-size: 1.8em;
+	color: $main-color;
+}
+
+.share-content-nav {
+	color:$main-color;
 }
 
 /* Video EMBed responsive code */

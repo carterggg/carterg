@@ -9,7 +9,9 @@ h1, li, a, h1 a {
   color: white; }
 
 h2 {
-  color: black; }
+  font-family: "upheaval_proregular";
+  color: black;
+  font-size: 1.8em; }
 
 ul {
   list-style: none;
@@ -54,7 +56,17 @@ a:active {
 .white-background {
   background-color: white;
   padding-left: 15px;
-  padding-right: 15px; }
+  padding-right: 15px;
+  padding-top: 20px;
+  padding-bottom: 15px; }
+
+.main-text {
+  font-family: "upheaval_proregular";
+  font-size: 1.8em;
+  color: black; }
+
+.share-content-nav {
+  color: black; }
 
 /* Video EMBed responsive code */
 .responsive-vid {
