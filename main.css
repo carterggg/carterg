@@ -1,0 +1,80 @@
+/* BASE */
+body {
+  background-image: url("images/layout/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+h1 {
+  font-family: "courier_primeregular"; }
+
+h1 a {
+  color: white; }
+
+/* unvisited link */
+a:link {
+  text-decoration: none; }
+
+/* visited link */
+a:visited {
+  text-decoration: none; }
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  color: silver; }
+
+/* selected link */
+a:active {
+  text-decoration: none; }
+
+/* LAYOUT */
+.align-center {
+  margin: auto;
+  text-align: center; }
+
+.footer-text {
+  font-size: 2em;
+  color: white; }
+
+/* Video EMBed responsive code */
+.responsive-vid {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 60px;
+  overflow: hidden; }
+
+.responsive-vid iframe,
+.responsive-vid object,
+.responsive-vid embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+/* END OF = Video EMBed responsive code */
+/* MODULE */
+/* STATE */
+/* THEME */
+/* FORM */
+input, textarea {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 3px;
+  font-size: 2em;
+  color: black;
+  background-color: white; }
+
+label {
+  margin-bottom: 0px;
+  font-size: 1.5em; }
+
+.error {
+  color: white; }
+
+form {
+  width: 100%; }
+
+.val-style {
+  text-align: center; }
