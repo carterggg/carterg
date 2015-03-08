@@ -69,6 +69,12 @@ a:active {
   color: black;
   font-family: "upheaval_proregular"; }
 
+.skill-style {
+  font-family: sans-serif;
+  color: black;
+  font-size: 1.1em;
+  list-style: square; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
