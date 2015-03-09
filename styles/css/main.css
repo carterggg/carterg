@@ -78,6 +78,9 @@ a:active {
   font-size: 1.1em;
   list-style: square; }
 
+.black-text {
+  color: black; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
