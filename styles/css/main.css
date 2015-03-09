@@ -30,20 +30,44 @@ nav {
 
 /* unvisited link */
 a:link {
-  text-decoration: none; }
+  text-decoration: none;
+  color: black; }
 
 /* visited link */
 a:visited {
-  text-decoration: none; }
+  text-decoration: none;
+  color: black; }
 
 /* mouse over link */
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   color: grey; }
 
 /* selected link */
 a:active {
-  text-decoration: none; }
+  text-decoration: none;
+  color: black; }
+
+/* FOOTER LINK STYLES */
+/* unvisited link */
+.footer-style a:link {
+  text-decoration: none;
+  color: white; }
+
+/* visited link */
+.footer-style a:visited {
+  text-decoration: none;
+  color: white; }
+
+/* mouse over link */
+.footer-style a:hover {
+  text-decoration: none;
+  color: grey; }
+
+/* selected link */
+.footer-style a:active {
+  text-decoration: none;
+  color: white; }
 
 /* LAYOUT */
 .align-center {
@@ -51,7 +75,7 @@ a:active {
   text-align: center; }
 
 .footer-text {
-  font-size: 2em; }
+  font-size: 1.9em; }
 
 .white-background {
   background-color: white;
@@ -80,6 +104,9 @@ a:active {
 
 .black-text {
   color: black; }
+
+.white-text a {
+  color: white; }
 
 /* Video EMBed responsive code */
 .responsive-vid {
