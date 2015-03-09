@@ -109,11 +109,13 @@ input, textarea {
   border: black solid 3px;
   font-size: 2em;
   color: black;
-  background-color: white; }
+  background-color: white;
+  font-family: "upheaval_proregular"; }
 
 label {
   margin-bottom: 0px;
-  font-size: 1.5em; }
+  font-size: 1.5em;
+  color: white; }
 
 .error {
   color: white; }

@@ -16,11 +16,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Graphic Design: Carter Guthrie</title>
-<link rel="stylesheet" href="stylesheet.css">
-<link rel="stylesheet" href="main.css">
+<title>Carter Guthrie: Graphic and Web Design</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="styles/css/main.css">
+<link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+
 </head>
 <body>
 <!-- Website content -->
@@ -38,14 +39,18 @@
 		<div class="hidden-xs col-sm-1"></div>
 	</div>
 	
-<!-- First Row: Myself -->
+<!-- First Row: Form -->
 					<div class="row">
-						<div class="col-xs-12 col-sm-10">
-							<?php include('inc/form.php'); ?>
-						</div>
+						<div class="col-sm-1"></div>
+							<div class="col-xs-12 col-sm-10">
+							 <h1 class="align-center">CONTACT ME</h1>
+		   <br>
+								<?php include('inc/form.php'); ?>
+							</div>
+						<div class="col-sm-1"></div>
 					</div>
 
-<!-- footer row -->
+<!-- Footer row -->
 	
 	<div class="row">
 		<div class="hidden-xs col-sm-1"></div>

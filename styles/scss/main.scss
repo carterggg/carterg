@@ -145,11 +145,13 @@ input,textarea {
 	font-size:2em;
 	color: $main-color;
 	background-color: $main-color2;
+	font-family: $main-font2;
 }
 
 label {
 	margin-bottom: 0px;
 	font-size: 1.5em;
+	color: $main-color2;
 }
 
 .error{
