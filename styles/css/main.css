@@ -108,6 +108,9 @@ a:active {
 .white-text a {
   color: white; }
 
+.white-text {
+  color: white; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;

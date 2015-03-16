@@ -86,15 +86,10 @@ if(@$_POST['submitted'])
 			echo '<div class="val-background align-center">';
 			echo "<br>";
 			echo '<img src="images/layout/bw-header-cg.gif" class="align-center">';
-			echo "<h2 class='val-style'>Thank You, Carter Guthrie will get back to you soon.</h2>";
+			echo "<br>";
+			echo "<br>";
+			echo "<h2 class='val-style white-text'>Thank You, Carter Guthrie will get back to you soon.</h2>";
 			echo "<p>Your message has been sent! Below is the information you provided:</p>";
-			echo "<ul>";
-			echo "<li>".$name."</li>";
-			echo "<br>";
-			echo "<li>".$email."</li>";
-			echo "<br>";
-			echo "<li>".$message."</li>";
-			echo "</ul>";
 			echo "<a href=\"".REDIRECT_URL ."\">Back to Carterguthrie.com</a>";
 		    echo "<br>";
 			echo "<br>";
