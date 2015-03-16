@@ -1,0 +1,52 @@
+/* BASE */
+* {
+  margin: auto;
+  padding: auto; }
+
+body {
+  background-color: #f1cba6;
+  background-image: url("images/layout/background.png");
+  background-repeat: repeat; }
+
+/* unvisited link */
+a:link {
+  text-decoration: none; }
+
+/* visited link */
+a:visited {
+  text-decoration: none; }
+
+/* mouse over link */
+a:hover {
+  text-decoration: none; }
+
+/* selected link */
+a:active {
+  text-decoration: none; }
+
+/* LAYOUT */
+.background-content {
+  background-image: url("images/layout/background4content.png");
+  width: 100%; }
+
+.main-content {
+  position: fixed; }
+
+/* MODULE */
+/* STATE */
+/* THEME */
+/* FORM */
+input, textarea {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 1px; }
+
+label {
+  margin-bottom: 0px; }
+
+.error {
+  color: blue; }
+
+form {
+  width: 100%; }

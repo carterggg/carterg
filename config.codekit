@@ -20,6 +20,81 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/js\/contact-form.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/contact-form.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/contact-form-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/vender\/bootstrap\/assets\/js\/html5shiv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/vender\/bootstrap\/assets\/js\/html5shiv.js",
+		"outputAbbreviatedPath": "\/assets\/vender\/bootstrap\/assets\/js\/min\/html5shiv-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/vender\/bootstrap\/assets\/js\/respond.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/vender\/bootstrap\/assets\/js\/respond.min.js",
+		"outputAbbreviatedPath": "\/assets\/vender\/bootstrap\/assets\/js\/min\/respond.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/vender\/intl-tel-input\/css\/intlTelInput.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/vender\/intl-tel-input\/css\/intlTelInput.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/vender\/intl-tel-input\/img\/flags.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76543,
+		"inputAbbreviatedPath": "\/assets\/vender\/intl-tel-input\/img\/flags.png",
+		"outputAbbreviatedPath": "\/assets\/vender\/intl-tel-input\/img\/flags.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/vender\/intl-tel-input\/js\/intlTelInput.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/vender\/intl-tel-input\/js\/intlTelInput.min.js",
+		"outputAbbreviatedPath": "\/assets\/vender\/intl-tel-input\/js\/min\/intlTelInput.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/vender\/intl-tel-input\/js\/isValidNumber.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/vender\/intl-tel-input\/js\/isValidNumber.js",
+		"outputAbbreviatedPath": "\/assets\/vender\/intl-tel-input\/js\/min\/isValidNumber-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/boltzonboard.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -29,11 +104,310 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/contact.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/content\/blog-page1.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/content\/blog-page1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/assets\/js\/contact-form.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/assets\/js\/contact-form.js",
+		"outputAbbreviatedPath": "\/graphic\/assets\/js\/min\/contact-form-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/graphic\/assets\/vender\/bootstrap\/assets\/js\/html5shiv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/assets\/vender\/bootstrap\/assets\/js\/html5shiv.js",
+		"outputAbbreviatedPath": "\/graphic\/assets\/vender\/bootstrap\/assets\/js\/min\/html5shiv-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/graphic\/assets\/vender\/bootstrap\/assets\/js\/respond.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/assets\/vender\/bootstrap\/assets\/js\/respond.min.js",
+		"outputAbbreviatedPath": "\/graphic\/assets\/vender\/bootstrap\/assets\/js\/min\/respond.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/graphic\/assets\/vender\/intl-tel-input\/css\/intlTelInput.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/assets\/vender\/intl-tel-input\/css\/intlTelInput.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/assets\/vender\/intl-tel-input\/img\/flags.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76543,
+		"inputAbbreviatedPath": "\/graphic\/assets\/vender\/intl-tel-input\/img\/flags.png",
+		"outputAbbreviatedPath": "\/graphic\/assets\/vender\/intl-tel-input\/img\/flags.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/assets\/vender\/intl-tel-input\/js\/intlTelInput.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/assets\/vender\/intl-tel-input\/js\/intlTelInput.min.js",
+		"outputAbbreviatedPath": "\/graphic\/assets\/vender\/intl-tel-input\/js\/min\/intlTelInput.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/graphic\/assets\/vender\/intl-tel-input\/js\/isValidNumber.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/assets\/vender\/intl-tel-input\/js\/isValidNumber.js",
+		"outputAbbreviatedPath": "\/graphic\/assets\/vender\/intl-tel-input\/js\/min\/isValidNumber-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/graphic\/contact.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/contact.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/designs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/designs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/images\/graphics\/10.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 209334,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/10.png",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/10.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/12.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 498375,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/16.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 688333,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/20.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/21.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 685304,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/21.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/21.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/22.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/image1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56963,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/image1.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/image1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/image11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 771595,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/image11.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/image11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/image12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 760652,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/image12.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/image12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/image2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94911,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/image2.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/image2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/image3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03317e+06,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/image3.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/image3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/image4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44510,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/image4.png",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/image4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/images\/graphics\/image5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 688686,
+		"inputAbbreviatedPath": "\/graphic\/images\/graphics\/image5.jpg",
+		"outputAbbreviatedPath": "\/graphic\/images\/graphics\/image5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/graphic\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/pay.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/pay.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/services.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/services.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphic\/validation.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphic\/validation.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -122,6 +496,28 @@
 		"initialSize": 124714,
 		"inputAbbreviatedPath": "\/images\/bob\/pixel-bob.jpg",
 		"outputAbbreviatedPath": "\/images\/bob\/pixel-bob.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/contact\/main-contact.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106429,
+		"inputAbbreviatedPath": "\/images\/contact\/main-contact.jpg",
+		"outputAbbreviatedPath": "\/images\/contact\/main-contact.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/contact\/pixel-main-contact.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57914,
+		"inputAbbreviatedPath": "\/images\/contact\/pixel-main-contact.jpg",
+		"outputAbbreviatedPath": "\/images\/contact\/pixel-main-contact.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -280,6 +676,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/radio\/main-radio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178418,
+		"inputAbbreviatedPath": "\/images\/radio\/main-radio.jpg",
+		"outputAbbreviatedPath": "\/images\/radio\/main-radio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/radio\/mfdoom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -287,6 +694,17 @@
 		"initialSize": 773968,
 		"inputAbbreviatedPath": "\/images\/radio\/mfdoom.jpg",
 		"outputAbbreviatedPath": "\/images\/radio\/mfdoom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/radio\/pixel-main-radio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97444,
+		"inputAbbreviatedPath": "\/images\/radio\/pixel-main-radio.jpg",
+		"outputAbbreviatedPath": "\/images\/radio\/pixel-main-radio.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
