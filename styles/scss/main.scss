@@ -119,6 +119,22 @@ a:active {
 	color: $main-color;
 }
 
+.main-nav-layout {
+	border: 2px solid $main-color2;	
+	padding-top: 7px;
+	width: 85%;
+}
+
+.main-nav-style {
+	font-size: 2.5em;
+	color: $main-color2 !important;
+}
+
+.main-nav-style:hover {
+	font-size: 2.3em;
+	color: grey;
+}
+
 .share-content-nav {
 	color:$main-color;
 	font-family:  $main-font2;
