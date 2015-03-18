@@ -105,6 +105,10 @@ a:active {
 	font-size: 2em;
 }
 
+.footer-size {
+	font-size: 2em;
+}
+
 .white-background {
 	background-color: $main-color2;
 	padding-left: 15px;
@@ -125,14 +129,15 @@ a:active {
 	width: 85%;
 }
 
-.main-nav-style {
-	font-size: 2.5em;
+
+.main-nav-style a {
+	font-size: 1em;
 	color: $main-color2 !important;
 }
 
-.main-nav-style:hover {
-	font-size: 2.3em;
-	color: grey;
+.main-nav-style a:hover {
+	font-size: .9em;
+	color: grey !important;
 }
 
 .share-content-nav {
