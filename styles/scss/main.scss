@@ -224,3 +224,14 @@ form{
 .val-style {
 	text-align: center;
 }
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media (min-width: 0px) and (max-width: 620px) {
+	
+	.footer-size {
+		font-size: 1.5em;
+	}
+	
+	
+}
