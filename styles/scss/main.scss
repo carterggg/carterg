@@ -24,6 +24,16 @@ h2 {
 	font-size: 1.8em;
 }
 
+h6 a {
+	color: white !important;
+	font-size:2.1em;
+}
+
+h6 a:hover {
+	color: grey !important;
+	font-size:2em;
+}
+
 ul {
 	list-style: none;
 	padding-left:0px;
@@ -40,8 +50,13 @@ li {
 }
 
 nav {
-	text-align: center;
+
 }
+
+
+
+
+
 
 /* unvisited link */
 a:link {
@@ -123,6 +138,12 @@ a:active {
 	color: $main-color;
 }
 
+.main-text-services {
+	font-family: $main-font;
+	font-size: 2.4em !important;
+	color: $main-color;
+}
+
 .main-nav-layout {
 	border: 2px solid $main-color2;	
 	padding-top: 7px;
@@ -148,6 +169,14 @@ a:active {
 .skill-layout {
 	margin-left: 4px;
 }
+
+.fixed-nav {
+	position: fixed;
+	float: left;
+	margin-top: 170px;
+	
+}
+
 .skill-style {
 	font-family: sans-serif;
 	color: $main-color;
@@ -166,6 +195,37 @@ a:active {
 .white-text {
 	color: $main-color2;
 }
+
+.quote-text {
+	text-size: 5em !important;
+}
+
+.social-network-layout {
+	float: left;
+}
+
+
+.main-services p {
+	color: white;
+	font-size: 1.8em;
+	
+}
+
+.services-header {
+	font-size:3.5em;
+}
+
+.main-contact-style  {
+	color: white !important;
+	font-size: 1.2em;
+}
+
+.main-contact-style:hover  {
+	color: grey !important;
+	font-size: 1.1em;
+}
+
+
 
 /* Video EMBed responsive code */
 
