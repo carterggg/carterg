@@ -173,7 +173,7 @@ a:active {
 .fixed-nav {
 	position: fixed;
 	float: left;
-	margin-top: 170px;
+	margin-top: 180px;
 	
 }
 
@@ -204,6 +204,9 @@ a:active {
 	float: left;
 }
 
+.floated-left {
+	float: left;
+}
 
 .main-services p {
 	color: white;
@@ -224,6 +227,29 @@ a:active {
 	color: grey !important;
 	font-size: 1.1em;
 }
+
+.radio-listen h6 a {
+	color: black !important;
+	font-size:2.1em;
+}
+
+.radio-listen h6 a:hover {
+	color: grey !important;
+	font-size:2em;
+}
+
+
+.main-subpage-text {
+	font-size: 4em;
+}
+
+
+
+/* Mobile nav styles */
+.mobile-nav {
+  display: none; 
+}
+
 
 
 
